@@ -1,5 +1,5 @@
 {
 "name": "paysdk",
 "compatibility_date": "2025-03-21",
-"main": "src/wxpay.test.ts"
+"main": "src/wxpay.ts"
 }
